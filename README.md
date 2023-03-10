@@ -1,7 +1,7 @@
-### Olá! Meu nome é Cilas Miguel
+### Olá! Eu sou o Cilas Miguel
 
-- 🔭 Apaixonado por tecnologia.
-- 🌱 Estudante de Análise e Desenvolvimento de Sitemas.
+- 🔭 Apaixonado por tecnologia
+- 🌱 Estudante de Análise e Desenvolvimento de Sitemas
 <div align="center">
   <a href="https://github.com/cilasmiguel-git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cilasmiguel-git&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -24,5 +24,5 @@
 ##
 <div> 
   <a href = "mailto:cilasmiguelcolacobp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dvdluiz91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/cilas-miguel-cola%C3%A7o-bezerra-0bb3981b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

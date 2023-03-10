@@ -1,7 +1,7 @@
-### Olá! Eu sou o Cilas Miguel
+### Olá! Meu nome é Cilas Miguel
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Análise e Desenvolvimento de Sitemas
+- 🔭 Apaixonado por tecnologia.
+- 🌱 Estudante de Análise e Desenvolvimento de Sitemas.
 <div align="center">
   <a href="https://github.com/cilasmiguel-git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cilasmiguel-git&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>

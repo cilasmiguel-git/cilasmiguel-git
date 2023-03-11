@@ -1,4 +1,4 @@
-### Olá! Eu sou o Cilas Miguel
+### Olá! Meu nome é Cilas Miguel
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante de Análise e Desenvolvimento de Sitemas

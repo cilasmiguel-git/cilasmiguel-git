@@ -2,9 +2,8 @@
 
 - 🔭✨ Apaixonado por tecnologia
 - 🖳👨🏽‍💻 Estudante de Análise e Desenvolvimento de Sitemas
-<div align="center">
+<div>
   <a href="https://github.com/cilasmiguel-git">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cilasmiguel-git&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  

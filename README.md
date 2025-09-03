@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Cilas Miguel 👋
 
 - 🔭✨ Apaixonado por tecnologia  
-- 🖳👨🏽‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🖳👨🏽‍💻 Estudante de Ciência da computação
 - 🚀 Full Stack Developer em constante aprendizado  
 - 🌐 Confira meu portfólio: [my-portfolio-theta-opal.vercel.app](https://my-portfolio-theta-opal.vercel.app/)
 
